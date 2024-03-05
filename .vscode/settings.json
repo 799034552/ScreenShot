@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "new": "cpp",
+        "qmouseevent": "cpp",
+        "qcolor": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "future": "cpp",
+        "mutex": "cpp",
+        "optional": "cpp",
+        "stop_token": "cpp",
+        "string_view": "cpp",
+        "string": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "qpushbutton": "cpp",
+        "qpainterpath": "cpp",
+        "qlabel": "cpp",
+        "qlayout": "cpp",
+        "qpropertyanimation": "cpp",
+        "fstream": "cpp"
+    }
+}

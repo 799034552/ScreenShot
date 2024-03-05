@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/settings.svg</file>
+        <file>icons/test.png</file>
+        <file>icons/settting.png</file>
+        <file>icons/back.svg</file>
+        <file>icons/editor.svg</file>
+        <file>icons/delete.svg</file>
+        <file>icons/yes.svg</file>
+        <file>icons/no.svg</file>
+        <file>icons/stop.svg</file>
+    </qresource>
+</RCC>
