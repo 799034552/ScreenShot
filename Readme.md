@@ -10,7 +10,7 @@
 
 # 下载
 
-exe：
+exe：https://github.com/799034552/ScreenShot/releases/download/test/screenshot.exe
 
 # 亮点
 

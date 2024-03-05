@@ -8,7 +8,7 @@ set(CMAKE_AUTORCC ON)
 set(OpenCV_STATIC ON)
 set(CMAKE_EXE_LINKER_FLAGS "-static")
 # 注释下面为了给别人用
-set(CMAKE_PREFIX_PATH  "F:/c/C++/install/Qt6.2.7-Windows-x86_64-MinGW11.2.0-staticFull;F:/c/C++/install/opencv_static")
+# set(CMAKE_PREFIX_PATH  "F:/c/C++/install/Qt6.2.7-Windows-x86_64-MinGW11.2.0-staticFull;F:/c/C++/install/opencv_static")
 find_package(OpenCV REQUIRED )
 find_package(Iconv REQUIRED)
 find_package(Qt6 COMPONENTS Widgets Core Gui REQUIRED)
