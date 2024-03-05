@@ -28,7 +28,7 @@ exe：https://github.com/799034552/ScreenShot/releases/download/test/screenshot.
 
 ![image-20240305163510950](Readme.assets/image-20240305163510950.png)
 
-## 截图gif演示
+# 截图gif演示
 
 gif有点大，就不放在readme里了，在[这里](Readme.assets/功能.gif)
 
@@ -36,7 +36,7 @@ gif有点大，就不放在readme里了，在[这里](Readme.assets/功能.gif)
 
 # 长截图效果展示
 
-# 蔚蓝
+## 蔚蓝
 
 某一关的地图
 
